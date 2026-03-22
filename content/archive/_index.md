@@ -21,7 +21,7 @@ In 2025, <a href="https://2025.brownpuzzlehunt.com">Brown Puzzlehunt</a> demande
 
 This was a <a href="/puzzlethon">club event</a> where we wrote and released an entire hunt, starting from scratch, in 24 hours.
 
-You can see the hunt that we made <a href="https://puzzlethon.brownpuzzle.club/">here</a>! You can still register a team and progress through the hunt.
+You can see the hunt that we made <a href="https://puzzlethon.brownpuzzleclub.com/">here</a>! You can still register a team and progress through the hunt.
 
 ### Orientation Hunt 2024
 
